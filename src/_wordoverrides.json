@@ -1,0 +1,23 @@
+{
+  "kiwi": "fas fa-kiwi-bird",
+  "raven": "fas fa-crow",
+  "bike": "fas fa-bicycle",
+  "leaf": "fab fa-canadian-maple-leaf",
+  "car": "fas fa-car-side",
+  "scissors": "fas fa-cut",
+  "starfish": "fas fa-disease",
+  "bird": "fas fa-dove",
+  "castle": "fab fa-fort-awesome",
+  "sad": "fas fa-frown",
+  "penguin": "fab fa-linux",
+  "pencil": "fas fa-pencil-alt",
+  "swim": "fas fa-swimmer",
+  "walk": "fas fa-walking",
+  "burger": "fas fa-hamburger",
+  "icecream": "fas fa-ice-cream",
+  "sofa": "fas fa-couch",
+  "spoon": "fas fa-utensil-spoon",
+  "astronaut": "fas fa-user-astronaut",
+  "happy": "fas fa-smile",
+  "hat": "fab fa-redhat"
+}

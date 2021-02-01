@@ -1,0 +1,70 @@
+{
+  "animals": [
+    "cat",
+    "dog",
+    "dragon",
+    "raven",
+    "hippo",
+    "horse",
+    "frog",
+    "fish",
+    "kiwi",
+    "spider",
+    "bug",
+    "starfish",
+    "bird",
+    "penguin"
+  ],
+  "transport": [
+    "anchor",
+    "bus",
+    "caravan",
+    "globe",
+    "plane",
+    "ambulance",
+    "bike",
+    "car",
+    "rocket",
+    "truck"
+  ],
+  "people": [
+    "happy",
+    "astronaut",
+    "baby",
+    "angry",
+    "eye",
+    "sad",
+    "ghost",
+    "snowman",
+    "swim",
+    "walk"
+  ],
+  "objects": [
+    "bell",
+    "binoculars",
+    "bone",
+    "leaf",
+    "sofa",
+    "crown",
+    "scissors",
+    "icecream",
+    "egg",
+    "burger",
+    "flag",
+    "castle",
+    "lock",
+    "hat",
+    "guitar",
+    "pencil",
+    "socks",
+    "tree",
+    "spoon"
+  ],
+  "weather": [
+    "cloud",
+    "moon",
+    "star",
+    "sun",
+    "umbrella"
+  ]
+}
