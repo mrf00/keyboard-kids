@@ -21,7 +21,7 @@ let wordSuccess = false;
 let charIndex = 0;
 let upperCase = true;
 
-$: wordLetters = word ? word.split("").map(letter => ({letter, state: 'unguessed'})) : [];
+$: wordLetters = word.split("").map(letter => ({letter, state: 'unguessed'}));
 $: currentLetter = wordLetters[charIndex];
 
 async function handleKeyPress(evt) {

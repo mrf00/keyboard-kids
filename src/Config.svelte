@@ -85,7 +85,8 @@ function selectAll() {
 }
 
 function selectPredicate(pred) {
-    selectedWords.update(words => [...words, Object.keys(availableWords).reduce((p, key) => [...p, ...availableWords[key].filter(pred)], [])])
+    const filteredWords = Object.keys(availableWords).reduce((p, key) => [...p, ...availableWords[key].filter(pred)], []);
+    selectedWords.update(words => [...words, ...filteredWords.filter(w => words.indexOf(w) < 0)]);
 }
 
 function toggleSelection(word) {
