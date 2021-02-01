@@ -126,7 +126,7 @@ main {
 .icon {
   animation: appear 250ms ease-out;
   font-size: 40vh;
-  background: -webkit-linear-gradient(45deg, hsla(var(--rotate-hue, 280), 80%, 60%, 0.8), hsla(var(--rotate-hue-to, 180), 80%, 80%, 0.8));
+  background: -webkit-linear-gradient(45deg, hsla(var(--rotate-hue, 280), 100%, 70%, 0.8), hsla(var(--rotate-hue-to, 180), 100%, 70%, 0.8));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   text-shadow: 3px 5px 5px rgba(0, 0, 0, 0.25);
