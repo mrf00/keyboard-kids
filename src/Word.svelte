@@ -28,7 +28,7 @@ async function handleKeyPress(evt) {
     if (!currentLetter) {
         return;
     }
-    if (evt.key === currentLetter.letter) {
+    if (evt.key.toLowerCase() === currentLetter.letter.toLowerCase()) {
         currentLetter.state = "correct";
         charIndex++;
     }
